@@ -1,0 +1,6 @@
+org/acme/gqlreproducer/PingPongResource.java
+ org.acme.gqlreproducer.PingPongResource
+org/acme/gqlreproducer/model/Ping.java
+ org.acme.gqlreproducer.model.Ping
+org/acme/gqlreproducer/model/Pong.java
+ org.acme.gqlreproducer.model.Pong

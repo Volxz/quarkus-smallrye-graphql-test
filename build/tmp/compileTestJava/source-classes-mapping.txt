@@ -1,0 +1,4 @@
+org/acme/gqlreproducer/FilmResourceTest.java
+ org.acme.gqlreproducer.FilmResourceTest
+org/acme/gqlreproducer/NativeFilmResourceIT.java
+ org.acme.gqlreproducer.NativeFilmResourceIT
